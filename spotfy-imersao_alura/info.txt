@@ -1,0 +1,13 @@
+Observaçoes
+	na hora de criar a pasta
+	-->git bash here (tem que ter o git instalado)
+	-->mkdir [nome do diretorio que vc quer colocar]
+	-->cd [nome do diretorio que vc quer colocar]
+	-->code . (vai entrar no vscode, tem que ter ele instalado)
+
+
+
+Links Uteis
+	https://fontawesome.com/ (para pegar icones)
+	https://meyerweb.com/eric/tools/css/reset/reset.css (reset.css para resetar configurações padroes)
+	https://github.com/RodrigoHarder/imersao-frontend/tree/main/spotify-imersao-alura-aula-01 (verificar codigo)
