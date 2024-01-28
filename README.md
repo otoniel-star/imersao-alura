@@ -15,7 +15,8 @@ Repositorio criado para o Desafio de projeto
 
 [editor web](https://www.fronteditor.dev/gists/857fff591c8fd769c4c6c6a91ec5a84e/view)
 
-###Aprofunde-se nos seguintes tópicos:
+##Aprofunde-se nos seguintes tópicos:
+
 [Treine seu conhecimento em CSS jogando Grid Garden e Flexbox Froggy, dois games que funcionam por meio do código CSS](https://flexboxfroggy.com/)[](https://cssgridgarden.com/)
 
 [Padrão BEM para CSS](https://www.alura.com.br/artigos/criando-componentes-css-com-padrao-bem?_gl=1*10vghcn*_ga*ODM2NTg4NDUyLjE3MDU3MjAxOTM.*_ga_1EPWSW3PCS*MTcwNjQ1OTU2MC4xMi4xLjE3MDY0NTk2OTIuMC4wLjA.*_fplc*aUNyNEdOSmwyTUg1RXB2SCUyQlpYUUclMkJlRUhmZkQ5T0l5M2RPZGd0aUVjYldlYWJZbnFOUzBtQzBmMnBUaVhCbDMzVHFOJTJCQ0ZTcFh3djc1N0NGJTJGR2V3bmxmT0hQayUyQnZFcmxtaDVDb3EyVlBnU2FEcHZsSzFPaVBjdzZqcSUyRiUyQlElM0QlM0Q.#utilizando-o-padrao-bem)
