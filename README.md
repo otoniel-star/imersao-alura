@@ -24,3 +24,33 @@ Repositorio criado para o Desafio de projeto
 [Websérie: ChatGPT e IAs generativas](https://www.youtube.com/watch?v=NsXfldreSPQ&list=PLh2Y_pKOa4Ud316ih975nbh3YbF5R4uZP)
 
 [repositorio alura](https://github.com/RodrigoHarder/imersao-frontend.git)
+
+[nodjs](https://nodejs.org/en/download)
+#Crie um arquivo API JSON diferente e explore mais.
+
+[](https://www.alura.com.br/artigos/javascript?_gl=1*ri0p2v*_ga*ODM2NTg4NDUyLjE3MDU3MjAxOTM.*_ga_1EPWSW3PCS*MTcwNjg0OTYzMi4yMS4xLjE3MDY4NTE2ODUuMC4wLjA.*_fplc*SnduY2F2NHhvSnFtbm1LUWdJdUxQRGdHZXR0cUdpb1VDbXNrcjBJelFId0tYVmY0WEYlMkJ4TjA5RXVSeklSeXY5ajhqOGtaZHY4VXhtUWdaWCUyQiUyQiUyRk9XdW9CZ1hrNWhBJTJGSmtXamZtY3pHVmU0ZnBidWtDRFFFNCUyQlpsUXpmdXNRJTNEJTNE)
+
+[](https://www.alura.com.br/artigos/css-grid-guia-propriedades-grid-container-grid-item?_gl=1*mffvkw*_ga*ODM2NTg4NDUyLjE3MDU3MjAxOTM.*_ga_1EPWSW3PCS*MTcwNjg0OTYzMi4yMS4xLjE3MDY4NTE2ODUuMC4wLjA.*_fplc*SnduY2F2NHhvSnFtbm1LUWdJdUxQRGdHZXR0cUdpb1VDbXNrcjBJelFId0tYVmY0WEYlMkJ4TjA5RXVSeklSeXY5ajhqOGtaZHY4VXhtUWdaWCUyQiUyQiUyRk9XdW9CZ1hrNWhBJTJGSmtXamZtY3pHVmU0ZnBidWtDRFFFNCUyQlpsUXpmdXNRJTNEJTNE)
+
+[](https://www.alura.com.br/artigos/flexibilidade-em-paginas-para-dispositivos-moveis-com-media-queries?_gl=1*mffvkw*_ga*ODM2NTg4NDUyLjE3MDU3MjAxOTM.*_ga_1EPWSW3PCS*MTcwNjg0OTYzMi4yMS4xLjE3MDY4NTE2ODUuMC4wLjA.*_fplc*SnduY2F2NHhvSnFtbm1LUWdJdUxQRGdHZXR0cUdpb1VDbXNrcjBJelFId0tYVmY0WEYlMkJ4TjA5RXVSeklSeXY5ajhqOGtaZHY4VXhtUWdaWCUyQiUyQiUyRk9XdW9CZ1hrNWhBJTJGSmtXamZtY3pHVmU0ZnBidWtDRFFFNCUyQlpsUXpmdXNRJTNEJTNE)
+
+[](https://www.alura.com.br/artigos/o-que-e-o-dom?_gl=1*mffvkw*_ga*ODM2NTg4NDUyLjE3MDU3MjAxOTM.*_ga_1EPWSW3PCS*MTcwNjg0OTYzMi4yMS4xLjE3MDY4NTE2ODUuMC4wLjA.*_fplc*SnduY2F2NHhvSnFtbm1LUWdJdUxQRGdHZXR0cUdpb1VDbXNrcjBJelFId0tYVmY0WEYlMkJ4TjA5RXVSeklSeXY5ajhqOGtaZHY4VXhtUWdaWCUyQiUyQiUyRk9XdW9CZ1hrNWhBJTJGSmtXamZtY3pHVmU0ZnBidWtDRFFFNCUyQlpsUXpmdXNRJTNEJTNE)
+
+[](https://www.alura.com.br/artigos/async-await-no-javascript-o-que-e-e-quando-usar?_gl=1*13kd4vw*_ga*ODM2NTg4NDUyLjE3MDU3MjAxOTM.*_ga_1EPWSW3PCS*MTcwNjg0OTYzMi4yMS4xLjE3MDY4NTE2ODUuMC4wLjA.*_fplc*SnduY2F2NHhvSnFtbm1LUWdJdUxQRGdHZXR0cUdpb1VDbXNrcjBJelFId0tYVmY0WEYlMkJ4TjA5RXVSeklSeXY5ajhqOGtaZHY4VXhtUWdaWCUyQiUyQiUyRk9XdW9CZ1hrNWhBJTJGSmtXamZtY3pHVmU0ZnBidWtDRFFFNCUyQlpsUXpmdXNRJTNEJTNE)
+
+[](https://www.alura.com.br/artigos/async-await-no-javascript-o-que-e-e-quando-usar?_gl=1*13kd4vw*_ga*ODM2NTg4NDUyLjE3MDU3MjAxOTM.*_ga_1EPWSW3PCS*MTcwNjg0OTYzMi4yMS4xLjE3MDY4NTE2ODUuMC4wLjA.*_fplc*SnduY2F2NHhvSnFtbm1LUWdJdUxQRGdHZXR0cUdpb1VDbXNrcjBJelFId0tYVmY0WEYlMkJ4TjA5RXVSeklSeXY5ajhqOGtaZHY4VXhtUWdaWCUyQiUyQiUyRk9XdW9CZ1hrNWhBJTJGSmtXamZtY3pHVmU0ZnBidWtDRFFFNCUyQlpsUXpmdXNRJTNEJTNE)
+
+[](https://www.alura.com.br/artigos/o-que-e-json?_gl=1*1giztez*_ga*ODM2NTg4NDUyLjE3MDU3MjAxOTM.*_ga_1EPWSW3PCS*MTcwNjg0OTYzMi4yMS4xLjE3MDY4NTE2ODUuMC4wLjA.*_fplc*SnduY2F2NHhvSnFtbm1LUWdJdUxQRGdHZXR0cUdpb1VDbXNrcjBJelFId0tYVmY0WEYlMkJ4TjA5RXVSeklSeXY5ajhqOGtaZHY4VXhtUWdaWCUyQiUyQiUyRk9XdW9CZ1hrNWhBJTJGSmtXamZtY3pHVmU0ZnBidWtDRFFFNCUyQlpsUXpmdXNRJTNEJTNE)
+
+[](https://www.bing.com/images/create?cc=br)
+
+
+
+[](https://www.midjourney.com/)
+
+
+
+[](https://stability.ai/)
+
+
+[](https://clipdrop.co/)
